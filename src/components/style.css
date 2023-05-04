@@ -1,0 +1,19 @@
+.doItCenter {
+  width: 100%;
+  display: grid;
+  margin: 10px;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 10px;
+}
+.mycontainer {
+  margin: 5px 0px !important;
+  border: 2px solid;
+  border-radius: 5px;
+  margin: 5px !important;
+  padding: 8px !important;
+}
+
+.icons{
+  display: flex;
+  align-items: center;
+}

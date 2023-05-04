@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"name": "public",
+			"path": "public"
+		},
+		{
+			"name": "Backend",
+			"path": "Backend"
+		},
+		{
+			"name": "src",
+			"path": "src"
+		}
+	],
+	"settings": {},
+	"launch": {
+		"version": "0.2.0",
+		"configurations": [
+		
+		]
+	}
+}

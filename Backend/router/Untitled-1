@@ -1,0 +1,32 @@
+
+# below is sign up details. =>
+{
+  "name":"shivam kumar",
+  "email":"shivamkumarbihar@gmail.com",
+  "password":"@#biharindiashivamkumar"
+}
+
+{
+  "_id": "644ce87427acea0d44adbc22",
+  "name": "shivam kumar",
+  "email": "shivamkumarbihar@gmail.com",
+  "date": "2023-04-29T09:50:44.218Z",
+  "__v": 0
+}
+
+
+this is the auth-token   =>   eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjQ0Y2U4NzQyN2FjZWEwZDQ0YWRiYzIyIn0sImlhdCI6MTY4Mjc2MTg0NH0.pxV7si4F8Yq0gHjAQOwpClR8LbGpDRyV1vhPSv8qPQc
+
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjQ0Y2U4NzQyN2FjZWEwZDQ0YWRiYzIyIn0sImlhdCI6MTY4Mjc2Mjg3NX0.9PBraeEzUV3oQlMHSAvtfE1lMpdYPZB5SxhuEOXOE4M
+
+
+#  now we are going to in note.....
+{
+  "user": "644ce87427acea0d44adbc22",
+  "title": "hey bro i create acount resently.....",
+  "description": "and also copy the informations",
+  "tag": "create-user",
+  "_id": "644cee992eb78d72d55a41cf",
+  "__v": 0
+}
+
